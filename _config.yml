@@ -4,8 +4,8 @@ email: lillyRHA21@outlook.com
 baseurl: "/Portfolio/"
 
 collections:
-	design:
-		output: true
+design:
+output: true
 
 instagram:
 linkedin:
