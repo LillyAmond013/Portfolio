@@ -1,22 +1,21 @@
 ---
 title: "Poster Series"
-tools: [Photoshop, InDesign]
-description: "A typographic poster series exploring contrst, scale, and rhythm."
+tools: [Photoshop, Illustrator, InDesign]
+description: "A series of posters I designed based on various TV shows and movies."
 layout: design
 ---
 
 ## Project Overview
 
-This poster series was created to explore how typography can communicate emotion and energy through layout.
+This poster series was created to explore different ways in which posters can effectively promote the media they're for.
 
 
 ## Tools & Techniques
 
-- Adobe InDesign
+- Adobe InDesign for layout
 - Adobe Photoshop for texture and blending
+- Adobe Illustrator for vector work
 
 ## Outcomes
 
-This project helped develop a stronger sense of visual hierarchy and gave me the opportunity to experiment with type-as-image.
-
-<!--This file can be edited to suit one of my actual projects later. The stuff in here is for the sake of the demo.-->
+This project helped me understand how to execute better visual hierarchy and gave me the opportunity to experiment much more with Photoshop, Illustrator, and InDesign.
