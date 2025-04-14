@@ -3,6 +3,7 @@ title: "Poster Series"
 tools: [Photoshop, Illustrator, InDesign]
 description: "A series of posters I designed based on various TV shows and movies."
 layout: design
+permalink:
 ---
 
 ## Project Overview

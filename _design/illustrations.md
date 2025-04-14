@@ -3,6 +3,7 @@ title: "Illustrations"
 tools: [Photoshop, Illustrator, InDesign]
 description: "A series of illustrations."
 layout: design
+permalink:
 ---
 
 ## Project Overview

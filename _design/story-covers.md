@@ -3,6 +3,7 @@ title: "Story Covers"
 tools: [Photoshop, Illustrator, InDesign]
 description: "A series of covers I designed for the stories I write."
 layout: design
+permalink:
 ---
 
 ## Project Overview

@@ -6,6 +6,7 @@ baseurl: "/Portfolio/"
 collections:
 design:
 output: true
+permalink:
 
 instagram:
 linkedin:
