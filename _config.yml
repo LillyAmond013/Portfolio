@@ -4,6 +4,6 @@ email: lillyRHA21@outlook.com
 baseurl: "/Portfolio/"
 
 collections:
-design:
-output: true
-permalink: /designs/:path/
+  design:
+    output: true
+    permalink: /designs/:path/
